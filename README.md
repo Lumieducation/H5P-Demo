@@ -1,5 +1,11 @@
 # H5P-Demo
 
+---
+
+# This Repository is deprecated and everything was moved to [https://github.com/Lumieducation/H5P-Nodejs-library](https://github.com/Lumieducation/H5P-Nodejs-library).
+
+---
+
 [![Build Status](https://travis-ci.org/Lumieducation/H5P-Demo.svg?branch=master)](https://travis-ci.org/Lumieducation/H5P-Demo)
 
 This repository demonstrates the integration of the [H5P Player](https://github.com/Lumieducation/H5P-Nodejs-library) and [H5P Editor](https://github.com/Lumieducation/H5P-Editor-Nodejs-library) libraries.
@@ -66,4 +72,4 @@ This work obtained financial support for development from the German BMBF-sponso
 Read more about them at the following websites:
 CARO - https://blogs.uni-bremen.de/caroprojekt/
 University of Bremen - https://www.uni-bremen.de/en.html
-BMBF - https://www.bmbf.de/en/index.html 
+BMBF - https://www.bmbf.de/en/index.html
